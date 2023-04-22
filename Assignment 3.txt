@@ -1,0 +1,9 @@
+Data Ingestion: We can use Apache kafka or amazon kinesis. For real time streaming and processing of data. 
+Data cleaning : We can use Apache nifi or apache flink for filtering, enrichment and transformation.
+Data storage : Amazon redshift or google big query can be used. 
+Analytics use apache spark or hive, or presto.  We can also use tableau or power bi. 
+
+To ensure pipeline is good we need to check: 
+1. Monitor performance , resource usage and error rates. 
+2.Implement error handling 
+3. Performing regular tests. 
